@@ -1,0 +1,35 @@
+
+.bg3{
+
+background: url("https://images.unsplash.com/photo-1594904351111-a072f80b1a71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y29kZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+.profile-pic{
+  border-radius:50%;
+  height: 200px;
+  width: 165px;
+  margin-top: 10px;
+}
+.radius1{
+
+  border-radius:50px;
+}
+.card-header {
+  text-align: center;
+  font-size: 20px;
+  background-color: lightgrey;
+}
+h2, h3{
+  text-align: center;
+  
+}
+
+.bg1{
+  background-color: lavender;
+}
+.i {
+  font-size: 48px;
+}
+p {
+  text-align: center;
+}
